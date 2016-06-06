@@ -14,10 +14,10 @@ owner:
   bio:            "I'm a code junky who enjoys learning new programming languages, paradigms, data analytics, and functional programming"
   email:          jamesd@codeforprofit.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
+  twitter: codingforprofit
   facebook:
   github:  jimador
-  stackexchange:
+  stackexchange: http://stackexchange.com/users/8302904/james-dunnam
   linkedin: james-dunnam-963b1951
   instagram:
   flickr:
